@@ -1,3 +1,5 @@
+This repository is based on code that was taken from the [LRZ GitLab](https://gitlab.lrz.de/cmt-computational-physics/fopra34).
+
 # Codes for the FOPRA34
 
 This repository will be updated to contain the example codes for the exercises.
